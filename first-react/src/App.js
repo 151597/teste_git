@@ -34,7 +34,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <BackupIcon /> {'\u00A0'}Learn React
+          <BackupIcon /> {'\u00A0'}teste
         </a>
       </header>
     </div>
